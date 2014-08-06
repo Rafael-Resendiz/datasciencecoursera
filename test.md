@@ -4,14 +4,14 @@
 
 ```markdown
 ```
-##  Subtitle or Secundary Title
+##  Subtitle or Second Title
 
 
 
-### Tertiary title
+### Thirst title
 
 ---
 
 * Point one
-* Poin two
+* Point two
 * Point three
