@@ -1,14 +1,14 @@
-# Principal title
+# Principal heading
 <br> </br>
 ## test
 
 ```markdown
 ```
-##  Subtitle or Second Title
+##  Subtitle or Secondary Heading
 
 
 
-### Thirst title
+### Tertiary heading
 
 ---
 
